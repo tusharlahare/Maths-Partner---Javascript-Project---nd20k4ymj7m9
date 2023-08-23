@@ -6,13 +6,7 @@
     font-family: 'Roboto', sans-serif;
 }
 
-/* .title-bar{
-    font-size: 1.25rem;
-    font-weight: bold;
-    margin: 30px;
-    display: flex;
-    justify-content: space-between;
-} */
+
 
 
 .title-bar h1 {
@@ -40,13 +34,7 @@
     border-radius: 15px;
     cursor: pointer;
 }
-  /* swpnil */
-/* .calculator{
-    display: flex;
-    margin: 30px;
-    gap: 20px;
-    margin-top: 20px;
-} */
+ 
 
 .calculator {
     display: flex;
